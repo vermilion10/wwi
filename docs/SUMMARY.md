@@ -165,6 +165,7 @@
     * [Lumi](ww/lore/character-backstory/lumi.md)
     * [Lupa](ww/lore/character-backstory/lupa.md)
     * [Lynae](ww/lore/character-backstory/lynae.md)
+    * [Mornye](ww/lore/character-backstory/mornye.md)
     * [Mortefi](ww/lore/character-backstory/mortefi.md)
     * [Phoebe](ww/lore/character-backstory/phoebe.md)
     * [Phrolova](ww/lore/character-backstory/phrolova.md)
