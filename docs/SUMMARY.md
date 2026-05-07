@@ -167,6 +167,7 @@
     * [Mortefi](ww/lore/character-backstory/mortefi.md)
     * [Phoebe](ww/lore/character-backstory/phoebe.md)
     * [Phrolova](ww/lore/character-backstory/phrolova.md)
+    * [Qiuyuan](ww/lore/character-backstory/qiuyuan.md)
     * [Roccia](ww/lore/character-backstory/roccia.md)
     * [Rover](ww/lore/character-backstory/rover.md)
     * [Sanhua](ww/lore/character-backstory/sanhua.md)

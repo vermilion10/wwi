@@ -51,10 +51,12 @@ Halaman yang tersedia saat ini:
 - [lupa.md](lupa.md "mention")&#x20;
 - [phoebe.md](phoebe.md "mention")
 - [phrolova.md](phrolova.md "mention")
+- [qiuyuan.md](qiuyuan.md "mention")
 - [roccia.md](roccia.md "mention")
 - [rover.md](rover.md "mention")
 - [the-shorekeeper.md](the-shorekeeper.md "mention")
 - [verina.md](verina.md "mention")
+- [xiangli-yao.md](xiangli-yao.md "mention")
 - [yinlin.md](yinlin.md "mention")
 - [zani.md](zani.md "mention")
 - [zezhi.md](zezhi.md "mention")
