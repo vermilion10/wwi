@@ -164,6 +164,7 @@
     * [Lingyang](ww/lore/character-backstory/lingyang.md)
     * [Lumi](ww/lore/character-backstory/lumi.md)
     * [Lupa](ww/lore/character-backstory/lupa.md)
+    * [Lynae](ww/lore/character-backstory/lynae.md)
     * [Mortefi](ww/lore/character-backstory/mortefi.md)
     * [Phoebe](ww/lore/character-backstory/phoebe.md)
     * [Phrolova](ww/lore/character-backstory/phrolova.md)

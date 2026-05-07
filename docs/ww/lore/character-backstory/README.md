@@ -49,6 +49,7 @@ Halaman yang tersedia saat ini:
 * [lingyang.md](lingyang.md "mention")
 
 - [lupa.md](lupa.md "mention")&#x20;
+- [lynae.md](lynae.md "mention")
 - [phoebe.md](phoebe.md "mention")
 - [phrolova.md](phrolova.md "mention")
 - [qiuyuan.md](qiuyuan.md "mention")
