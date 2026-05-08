@@ -57,6 +57,7 @@ Halaman yang tersedia saat ini:
 * [qiuyuan.md](qiuyuan.md "mention")
 * [roccia.md](roccia.md "mention")
 * [rover.md](rover.md "mention")
+* [sigrika.md](sigrika.md "mention")
 * [the-shorekeeper.md](the-shorekeeper.md "mention")
 * [verina.md](verina.md "mention")
 * [xiangli-yao.md](xiangli-yao.md "mention")
