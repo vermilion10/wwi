@@ -32,6 +32,7 @@ Halaman yang tersedia saat ini:
 
 <summary>Karakter <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span>5</summary>
 
+* [aemeath.md](aemeath.md "mention")
 * [augusta.md](augusta.md "mention")
 * [brant.md](brant.md "mention")
 * [calcharo.md](calcharo.md "mention")
@@ -48,8 +49,8 @@ Halaman yang tersedia saat ini:
 * [jiyan.md](jiyan.md "mention")
 * [lingyang.md](lingyang.md "mention")
 * [lupa.md](lupa.md "mention")&#x20;
-* [luuk-herssen.md](luuk-herssen.md "mention")
 * [lynae.md](lynae.md "mention")
+* [luuk-herssen.md](luuk-herssen.md "mention")
 * [mornye.md](mornye.md "mention")
 * [phoebe.md](phoebe.md "mention")
 * [phrolova.md](phrolova.md "mention")

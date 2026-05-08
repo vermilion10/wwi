@@ -14,7 +14,7 @@ layout:
 
 # Luuk Herssen
 
-<div align="center"><figure><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Luhesi_UI.webp" alt="" width="375"><figcaption><p>Dokter penanggung jawab Unit Keperawatan Resonator Akademi Startorch, yang dikenal karena kecerdasannya yang tajam dan ketenangannya yang tak tergoyahkan. Rumor mengatakan bahwa tidak ada yang pernah melihatnya kehilangan kendali.<br><br>Beliau adalah pendengar yang ulung, mahir dalam membedah bayang-bayang di hati seseorang. Dari luka yang tak kunjung sembuh di tangannya, darah emas merembes keluar — sebuah zat yang dapat ia panggil untuk menjadi sebilah pedang dengan presisi yang luar biasa.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Luhesi_UI.webp" alt="" width="375"><figcaption><p>Dokter penanggung jawab Unit Keperawatan Resonator Startorch Academy, yang dikenal karena kecerdasannya yang tajam dan ketenangannya yang tak tergoyahkan. Rumor mengatakan bahwa tidak ada yang pernah melihatnya kehilangan kendali.<br><br>Beliau adalah pendengar yang ulung, mahir dalam membedah bayang-bayang di hati seseorang. Dari luka yang tak kunjung sembuh di tangannya, darah emas merembes keluar — sebuah zat yang dapat ia panggil untuk menjadi sebilah pedang dengan presisi yang luar biasa.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -22,8 +22,8 @@ layout:
 | ------------- | ------------ |
 | Tanggal Lahir | unknown             |
 | Jenis Kelamin | Laki-laki    |
-| Tempat Lahir  | unknown    |
-| Afiliasi      | Akademi Startorch       |
+| Tempat Lahir  | New Federation    |
+| Afiliasi      | Startorch Academy       |
 
 ## :clipboard: Forte Examination Report
 
@@ -33,7 +33,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-\[Arsip dari: Spacetrek Collective: Catatan Fakultas Akademi Startorch]\
+\[Arsip dari: Spacetrek Collective: Catatan Fakultas Startorch Academy]\
 \[Laporan Pemeriksaan Forte RA2462-G]
 
 Nama: Luuk Herssen
@@ -44,7 +44,7 @@ Subjek melaporkan gejala yang stabil dan menolak perawatan lebih lanjut.
 
 > _"Pemeriksaan dan pelaporan dilakukan oleh subjek secara pribadi untuk memastikan keakuratan catatan."_
 
-> _"Lokasi: Akademi Startorch — Unit Keperawatan Resonator. Pencatat: Luuk Herssen."_
+> _"Lokasi: Startorch Academy — Unit Keperawatan Resonator. Pencatat: Luuk Herssen."_
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 

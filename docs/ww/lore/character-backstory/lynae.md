@@ -14,7 +14,7 @@ layout:
 
 # Lynae
 
-<div align="center"><figure><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Linnai_UI.webp" alt="" width="375"><figcaption><p>Seorang siswi <strong>Akademi Startorch</strong> yang penampilannya mencolok dan penuh energi, menyembunyikan fokus batin yang setajam dan sekuat pegas yang tertekan.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Linnai_UI.webp" alt="" width="375"><figcaption><p>Seorang siswi <strong>Startorch Academy</strong> yang penampilannya mencolok dan penuh energi, menyembunyikan fokus batin yang setajam dan sekuat pegas yang tertekan.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -23,7 +23,7 @@ layout:
 | Tanggal Lahir | unknown             |
 | Jenis Kelamin | Perempuan    |
 | Tempat Lahir  | New Federation    |
-| Afiliasi      | Akademi Startorch     |
+| Afiliasi      | Startorch Academy     |
 
 ## :clipboard: Forte Examination Report
 
@@ -33,7 +33,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-\[Diajukan dari Spacetrek Collective: Catatan Siswa Akademi Startorch]\
+\[Diajukan dari Spacetrek Collective: Catatan Siswa Startorch Academy]\
 \[Laporan Pemeriksaan Forte RA2906-G]\
 Nama Siswa: Lynae\
 Kualifikasi Synchronist: Negatif\
@@ -59,13 +59,13 @@ Konseling psikologis saat ini dianggap tidak diperlukan.
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">A New Journey</td><td><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure129_UI.webp" alt=""></td><td><p>Setelah lulus ujian masuk, Lynae menerima surat penerimaannya sendiri, resmi menjadi siswi Akademi Startorch. Dahulu, selembar kertas serupa pernah memulai sebuah perjalanan yang tak terduga. Kini, lembar ini menandai kesempatan pertamanya untuk benar-benar memilih jalannya sendiri dan tempat di mana ia benar-benar merasa memiliki.</p></td></tr><tr><td align="center">"Unsanctioned" Mod Kit</td><td><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure128_UI.webp" alt=""></td><td><p>Sebuah kit yang penuh dengan berbagai macam modifikasi motor dan aksesori fungsional, termasuk namun tidak terbatas pada modul peluncur kembang api, sayap glider lipat, dan kompor mie yang dipasang di sidecar... Satu item saja sudah cukup untuk membuat Tuan S.I.G.M.A. berlari terbirit-birit sambil memicu alarm sistem secara penuh.<br><br><em>"Aku cuma membuatnya untuk menguji idenya! Aku belum pernah benar-benar memasangnya di kendaraan sungguhan!"</em> Itulah pembelaan standar Lynae setiap kali isi asrama yang kacau balau itu tak terelakkan ditemukan.</p></td></tr><tr><td align="center">Cactus Pillow</td><td><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure130_UI.webp" alt=""></td><td><p>Hadiah dari seorang siswa yang pernah dibantu Lynae, diberikan untuk menyambut kedatangannya di Akademi, konon merupakan desain klasik dari film road movie favorit si pemberi dari New Federation.<br><br>Lembut, hijau, dan berbentuk kaktus — sama sekali tidak berduri — tidak bertengger di atas pasir kasar, melainkan di atas kasur empuk asramanya. Ia menjaga dengan diam setiap mimpi yang cerah dan penuh warna… kalau saja kamu bisa melewati ekspresi wajahnya yang unik itu.</p><br><em>"Hm? Bantal ini? Lucu banget! Dan ini versi re-release edisi terbatas!"</em></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">A New Journey</td><td><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure129_UI.webp" alt=""></td><td><p>Setelah lulus ujian masuk, Lynae menerima surat penerimaannya sendiri, resmi menjadi siswi Startorch Academy. Dahulu, selembar kertas serupa pernah memulai sebuah perjalanan yang tak terduga. Kini, lembar ini menandai kesempatan pertamanya untuk benar-benar memilih jalannya sendiri dan tempat di mana ia benar-benar merasa memiliki.</p></td></tr><tr><td align="center">"Unsanctioned" Mod Kit</td><td><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure128_UI.webp" alt=""></td><td><p>Sebuah kit yang penuh dengan berbagai macam modifikasi motor dan aksesori fungsional, termasuk namun tidak terbatas pada modul peluncur kembang api, sayap glider lipat, dan kompor mie yang dipasang di sidecar... Satu item saja sudah cukup untuk membuat Tuan S.I.G.M.A. berlari terbirit-birit sambil memicu alarm sistem secara penuh.<br><br><em>"Aku cuma membuatnya untuk menguji idenya! Aku belum pernah benar-benar memasangnya di kendaraan sungguhan!"</em> Itulah pembelaan standar Lynae setiap kali isi asrama yang kacau balau itu tak terelakkan ditemukan.</p></td></tr><tr><td align="center">Cactus Pillow</td><td><img src="https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure130_UI.webp" alt=""></td><td><p>Hadiah dari seorang siswa yang pernah dibantu Lynae, diberikan untuk menyambut kedatangannya di Akademi, konon merupakan desain klasik dari film road movie favorit si pemberi dari New Federation.<br><br>Lembut, hijau, dan berbentuk kaktus — sama sekali tidak berduri — tidak bertengger di atas pasir kasar, melainkan di atas kasur empuk asramanya. Ia menjaga dengan diam setiap mimpi yang cerah dan penuh warna… kalau saja kamu bisa melewati ekspresi wajahnya yang unik itu.</p><br><em>"Hm? Bantal ini? Lucu banget! Dan ini versi re-release edisi terbatas!"</em></td></tr></tbody></table>
 
 ## :scroll: Story
 
 ### <mark style="color:blue;">Truancy Record</mark>
 
-Dalam sistem administrasi Akademi Startorch, catatan keabsenan Lynae lebih mirip sebuah kisah perjalanan fantasi penuh warna daripada berkas kedisiplinan biasa.
+Dalam sistem administrasi Startorch Academy, catatan keabsenan Lynae lebih mirip sebuah kisah perjalanan fantasi penuh warna daripada berkas kedisiplinan biasa.
 
 Sementara teman-teman sekelasnya duduk di aula kuliah mendengarkan ceramah Sejarah Budaya Dunia dari Profesor Mauclair, Lynae sudah berada beberapa kilometer jauhnya, bertengger di atas pohon sambil dengan teliti memperkuat sarang Kronapuff yang baru menetas. Sementara yang lain berlatih gerakan tempur di lapangan, ia malah ada di Spacetrek Archive, membantu seorang mahasiswa Ilmu Energi yang panik memulihkan data kelulusan penting dari tumpukan file yang rusak.
 
@@ -176,7 +176,7 @@ Mungkin ia sudah tahu dari saat pertama kali ia memungut surat penerimaan itu, t
 
 Ia tahu betapa pentingnya Upacara _New Solar_ bagi Spacetrek Collective dan Lahai-Roi, dan ia tahu betapa krusialnya Detektor Hyvatia bagi acara itu. Sebuah konspirasi besar sedang melilit bayangan-bayangan Lahai-Roi. Saat itu, Lynae memahami dengan kejelasan yang mengerikan: apa yang ia pilih untuk lakukan bisa saja menjerumuskan Lahai-Roi ke dalam bahaya. Ia tidak percaya bahwa seorang tentara bayaran pelarian sepertinya bisa benar-benar mengancam organisasi sebesar Fractsidus. Namun pikiran itu terus berputar tanpa henti di benaknya, menolak untuk melepaskan cengkeramannya.
 
-Akademi Startorch, "surga" di bawah frostlands, sudah menjadi rumahnya. Sampai kapan ia bisa berpura-pura buta dan berpura-pura menjalani "kehidupan sekolah" ini dengan hati nurani yang bersih?
+Startorch Academy, "surga" di bawah frostlands, sudah menjadi rumahnya. Sampai kapan ia bisa berpura-pura buta dan berpura-pura menjalani "kehidupan sekolah" ini dengan hati nurani yang bersih?
 Menyadari bahwa ia tidak bisa bersembunyi selamanya, ia menetapkan hati. Sudah waktunya untuk mengakhiri ini.
 
 Langkah pertama: putuskan perannya sebagai "orang dalam" mereka.
@@ -199,7 +199,7 @@ Ia mengamati target itu melarikan diri dalam panik melalui gang gelap. Ia bukan 
 
 Suara desahan kasar berlapis statis terdengar di telinganya.
 
-> _"Jangan khawatir… aku akan tiba di Lahai-Roi pada waktu yang ditentukan… Akademi Startorch…"_
+> _"Jangan khawatir… aku akan tiba di Lahai-Roi pada waktu yang ditentukan… Startorch Academy…"_
 
 > _"Aku akan menyelesaikan… misi sang Grand Architect…"_
 
