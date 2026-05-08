@@ -164,6 +164,7 @@
     * [Lingyang](ww/lore/character-backstory/lingyang.md)
     * [Lumi](ww/lore/character-backstory/lumi.md)
     * [Lupa](ww/lore/character-backstory/lupa.md)
+    * [Luuk-Herssen](ww/lore/character-backstory/luuk-herssen.md)
     * [Lynae](ww/lore/character-backstory/lynae.md)
     * [Mornye](ww/lore/character-backstory/mornye.md)
     * [Mortefi](ww/lore/character-backstory/mortefi.md)

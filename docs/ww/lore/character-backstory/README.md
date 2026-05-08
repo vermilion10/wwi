@@ -48,6 +48,7 @@ Halaman yang tersedia saat ini:
 * [jiyan.md](jiyan.md "mention")
 * [lingyang.md](lingyang.md "mention")
 * [lupa.md](lupa.md "mention")&#x20;
+* [luuk-herssen.md](luuk-herssen.md "mention")
 * [lynae.md](lynae.md "mention")
 * [mornye.md](mornye.md "mention")
 * [phoebe.md](phoebe.md "mention")
@@ -55,11 +56,11 @@ Halaman yang tersedia saat ini:
 * [qiuyuan.md](qiuyuan.md "mention")
 * [roccia.md](roccia.md "mention")
 * [rover.md](rover.md "mention")
-- [the-shorekeeper.md](the-shorekeeper.md "mention")
-- [verina.md](verina.md "mention")
-- [xiangli-yao.md](xiangli-yao.md "mention")
-- [yinlin.md](yinlin.md "mention")
-- [zani.md](zani.md "mention")
-- [zezhi.md](zezhi.md "mention")
+* [the-shorekeeper.md](the-shorekeeper.md "mention")
+* [verina.md](verina.md "mention")
+* [xiangli-yao.md](xiangli-yao.md "mention")
+* [yinlin.md](yinlin.md "mention")
+* [zani.md](zani.md "mention")
+* [zezhi.md](zezhi.md "mention")
 
 </details>
