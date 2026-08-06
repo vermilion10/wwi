@@ -7,6 +7,22 @@ coverY: 0
 
 # Changelogs
 
+## 06/08/2026
+
+* Add backstory Denia [denia.md](ww/lore/character-backstory/denia.md "mention")
+
+## 08/05/2026
+
+* Add backstory Sigrika [sigrika.md](ww/lore/character-backstory/sigrika.md "mention")
+* Add backstory Aemeath [aemeath.md](ww/lore/character-backstory/aemeath.md "mention")
+* Add backstory Luuk Herssen [luuk-herssen.md](ww/lore/character-backstory/luuk-herssen.md "mention")
+
+## 07/05/2026
+
+* Add backstory Qiuyuan [qiuyuan.md](ww/lore/character-backstory/qiuyuan.md "mention")
+* Add backstory Lynae [lynae.md](ww/lore/character-backstory/lynae.md "mention")
+* Add backstory Mornye [mornye.md](ww/lore/character-backstory/mornye.md "mention")
+
 ## 26/11/2025
 
 * add Chisa Character backstory

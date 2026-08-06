@@ -42,6 +42,7 @@ Halaman yang tersedia saat ini:
 * [cartethyia.md](cartethyia.md "mention")
 * [changli.md](changli.md "mention")
 * [ciaccona.md](ciaccona.md "mention")
+* [denia.md](denia.md "mention")
 * [encore.md](encore.md "mention")
 * [galbrena.md](galbrena.md "mention")
 * [jianxin.md](jianxin.md "mention")

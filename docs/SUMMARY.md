@@ -157,6 +157,7 @@
     * [Chisa](ww/lore/character-backstory/chisa.md)
     * [Ciaccona](ww/lore/character-backstory/ciaccona.md)
     * [Danjin](ww/lore/character-backstory/danjin.md)
+    * [Denia](ww/lore/character-backstory/denia.md)
     * [Encore](ww/lore/character-backstory/encore.md)
     * [Galbrena](ww/lore/character-backstory/galbrena.md)
     * [Jianxin](ww/lore/character-backstory/jianxin.md)
