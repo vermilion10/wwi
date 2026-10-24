@@ -175,6 +175,7 @@
     * [Mortefi](ww/lore/character-backstory/mortefi.md)
     * [Phoebe](ww/lore/character-backstory/phoebe.md)
     * [Phrolova](ww/lore/character-backstory/phrolova.md)
+    * [Qingxiao](ww/lore/character-backstory/qingxiao.md)
     * [Qiuyuan](ww/lore/character-backstory/qiuyuan.md)
     * [Rebecca](ww/lore/character-backstory/rebecca.md)
     * [Roccia](ww/lore/character-backstory/roccia.md)

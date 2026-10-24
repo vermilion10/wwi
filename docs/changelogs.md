@@ -7,6 +7,10 @@ coverY: 0
 
 # Changelogs
 
+## 24/10/2026
+
+* Add backstory Qingxiao [qingxiao.md](ww/lore/character-backstory/qingxiao.md "mention")
+
 ## 14/08/2026
 
 * Add backstory Suisui [suisui.md](ww/lore/character-backstory/suisui.md "mention")
